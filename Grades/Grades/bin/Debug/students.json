@@ -1,0 +1,130 @@
+[
+  {
+    "Surname": "Шустов",
+    "Name": "Денис",
+    "Patronymic": "Константинович",
+    "mathGrade": 3,
+    "bioGrade": 4,
+    "practiceGrade": 5
+  },
+  {
+    "Surname": "Марков",
+    "Name": "Максим",
+    "Patronymic": "Глебович",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Крылова",
+    "Name": "Ева",
+    "Patronymic": "Андреевна",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Лосев",
+    "Name": "Дмитрий",
+    "Patronymic": "Артемович",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Старикова",
+    "Name": "Милана",
+    "Patronymic": "Марковна",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Зимин",
+    "Name": "Александр",
+    "Patronymic": "Лукич",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Ефимов",
+    "Name": "Давид",
+    "Patronymic": "Александрович",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Давыдов",
+    "Name": "Вадим",
+    "Patronymic": "Андреевич",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Коротков",
+    "Name": "Всеволод",
+    "Patronymic": "Сергеевич",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Демьянов",
+    "Name": "Николай",
+    "Patronymic": "Иванович",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Филиппов",
+    "Name": "Алексей",
+    "Patronymic": "Матвеевич",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Логинов",
+    "Name": "Егор",
+    "Patronymic": "Маркович",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Горлова",
+    "Name": "Милана",
+    "Patronymic": "Михайловна",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Савельева",
+    "Name": "Екатерина",
+    "Patronymic": "Кирилловна",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "Сорокин",
+    "Name": "Дмитрий",
+    "Patronymic": "Максимович",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 2
+  },
+  {
+    "Surname": "DD",
+    "Name": "DD",
+    "Patronymic": "DD",
+    "mathGrade": 2,
+    "bioGrade": 2,
+    "practiceGrade": 3
+  }
+]
